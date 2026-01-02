@@ -1,0 +1,95 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.jar
+*.class
+*.o
+*.a
+*.lib
+*.obj
+*.out
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.prof
+*.cache
+*.db
+
+# Go workspace
+_gopath/
+bin/
+pkg/
+
+# Go environment
+.env
+.envrc
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+.settings/
+.project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*:*
+
+# Log files
+*.log
+logs/
+log/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Local configuration files
+config.local
+*.local
+.env.local
+.env.*.local
+
+# Coverage files
+coverage/
+*.coverprofile
+
+# Build outputs
+build/
+dist/
+target/
+
+# Dump files like yours
+*dump*.txt
