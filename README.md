@@ -29,7 +29,7 @@ Check out CodeStore in action! 📸
 1. Make sure you have Go installed on your system
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/CodeStore.git
+   git clone https://github.com/lemantorus/CodeStore.git
    ```
 3. Navigate to the project directory:
    ```bash
